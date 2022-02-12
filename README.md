@@ -1,4 +1,4 @@
-## This Is Telegram Music UserBot To Play Music Without Being Admin
+## This Is RAICHU Music UserBot To Play Music Without Being Admin
 
 ## A FASTEST AND SMOOTHEST BASED ON TG CALLS AND PYROGRAM STRING.
 
@@ -14,12 +14,12 @@
 
 - Then Click On Down One Button 
 
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://te.legra.ph/file/db7a18d702437595cd9da.jpg)](https://heroku.com/deploy/)
 
 
 -------------
 
-## [REPL](https://t.me/LEGEND_STRINGSESSIONBOT)
+## [REPL](https://t.me/stringsession_raichu_robot)
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
